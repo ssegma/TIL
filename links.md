@@ -13,6 +13,9 @@
 *  http://www.ipnomics.co.kr
 *  http://poem23.com
 
-#Books for programmers
-  * http://blog.naver.com/kkpa1002/20116446240
+# Code algorithm interview prep
+* http://www.jungol.co.kr/  정올 올림피아드 문제 유형별 분석
 
+#Books for programmers
+* http://blog.naver.com/kkpa1002/20116446240
+* http://knol.google.com/k/jurgen-appelo/top-100-best-software-engineering-books
